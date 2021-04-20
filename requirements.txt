@@ -63,7 +63,7 @@ importlib_metadata==3.4.0
 Jinja2==2.11.3
 chardet==4.0.0
 ptyprocess==0.7.0
-job_supervisor_client==0.0.2
+#job_supervisor_client==0.0.2
 locket==0.2.0
 pyrsistent==0.17.3
 PyQtWebEngine==5.12.1
