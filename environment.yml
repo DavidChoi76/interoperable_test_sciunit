@@ -1,8 +1,9 @@
 name: rhessys
+channels:
+  - conda-forge
 dependencies:
   - python>=3.6
-  - anaconda
   - pip
   - pip:
-    - -r requirement.txt
+    - -r requirements.txt
     - -e
