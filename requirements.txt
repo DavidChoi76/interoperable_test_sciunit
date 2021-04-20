@@ -109,7 +109,7 @@ testpath==0.4.4
 pyviz_comms==2.0.1
 matplotlib==3.3.4
 parso==0.8.1
-Cartopy==0.18.0
+#Cartopy==0.18.0
 widgetsnbextension==3.5.1
 geopandas==0.8.2
 humanfriendly==9.1
