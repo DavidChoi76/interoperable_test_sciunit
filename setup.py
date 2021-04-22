@@ -10,6 +10,6 @@ setup(name='pyrhessys',
       install_requires=[
           ],
        extras_require={'requirment': [
-          'requirments.txt'
+          'require.txt'
           ],},
       include_package_data=True)
