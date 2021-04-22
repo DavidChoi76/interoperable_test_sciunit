@@ -11,7 +11,7 @@ def install(package):
         error_log.write(str(e))
 
 if __name__ == '__main__':
-    f = open('requirements.txt', 'r')
+    f = open('require.txt', 'r')
     for line in f:
         install(line)
     f.close()
