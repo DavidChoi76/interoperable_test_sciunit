@@ -1,16 +1,4 @@
 #source activate rhessys
 #python -m ipykernel install --user --name rhessys
 #jupyter labextension install @pyviz/jupyterlab_pyviz
-R
-install.packages("sp")
-install.packages("XML")
-install.packages("rgdal")
-install.packages("remotes")
-install.packages('rgrass7')
-install.packages("units")
-install.packages("sf")
-install.packages("stars")
-install.packages("openssl")
-install.packages('curl')
-install.packages("httr")
-install.packages('devtools')
+conda insatll --file install.R
