@@ -1,4 +1,4 @@
 #source activate rhessys
 #python -m ipykernel install --user --name rhessys
 #jupyter labextension install @pyviz/jupyterlab_pyviz
-conda insatll --file install.R
+conda install --file install.R
