@@ -1,0 +1,7 @@
+name: rhessys
+dependencies:
+  - python>=3.6
+  - anaconda
+  - pip
+  - pip:
+    - freeze > requirements.txt
