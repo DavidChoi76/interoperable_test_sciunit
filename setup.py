@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='pyrhessys',
+setup(name='pyrhessys1',
       description='A python wrapper for RHESSys',
       url='https://github.com/UW-Hydro/pysumma.git',
       author='YoungDon Choi',
