@@ -1,5 +1,6 @@
 gdal
 geopandas
+holoviews
 r-sp
 r-XML
 r-rgdal
