@@ -1,4 +1,6 @@
 gdal
+geopandas
+cartopy
 r-sp
 r-XML
 r-rgdal
