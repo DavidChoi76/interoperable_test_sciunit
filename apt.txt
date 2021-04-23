@@ -3,6 +3,7 @@ grass-dev
 r-base
 r-base-dev
 libgdal-dev
+gdal-bin
 libproj-dev
 wget
 software-properties-common
