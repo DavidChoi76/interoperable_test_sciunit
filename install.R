@@ -1,3 +1,4 @@
+gdal
 r-sp
 r-XML
 r-rgdal
